@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class SumPositiveEvenIndex {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-        double array[] = new double[10];
+        double[] array = new double[10];
         double sum = 0.0;
 
         for (int i = 0; i < array.length; i++) {

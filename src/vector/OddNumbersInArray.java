@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class OddNumbersInArray {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-        int array[] = new int[10];
+        int[] array = new int[10];
 
         System.out.println("Insira 10 valores inteiros.");
 

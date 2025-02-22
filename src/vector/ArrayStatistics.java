@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class ArrayStatistics {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-        double array[] = new double[6];
+        double[] array = new double[6];
 
         System.out.println("Insira 6 valores reais.");
 
