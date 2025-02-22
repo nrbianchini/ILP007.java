@@ -2,7 +2,7 @@ package loopStructure;
 
 import java.util.Scanner;
 
-public class Exercise6 {
+public class FactorialCalculator {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int fatorial = 1;

@@ -2,7 +2,7 @@ package vector;
 
 import java.util.Scanner;
 
-public class Exercise2 {
+public class ArrayStatistics {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         double array[] = new double[6];

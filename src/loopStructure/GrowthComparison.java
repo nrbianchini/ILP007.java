@@ -1,6 +1,6 @@
 package loopStructure;
 
-public class Exercise5 {
+public class GrowthComparison {
     public static void main(String[] args) {
         double chico = 1.50;
         double juca = 1.10;

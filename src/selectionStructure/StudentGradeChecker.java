@@ -2,7 +2,7 @@ package selectionStructure;
 
 import java.util.Scanner;
 
-public class Exercise4 {
+public class StudentGradeChecker {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 

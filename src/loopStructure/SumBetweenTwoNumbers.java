@@ -2,7 +2,7 @@ package loopStructure;
 
 import java.util.Scanner;
 
-public class Exercise3 {
+public class SumBetweenTwoNumbers {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 

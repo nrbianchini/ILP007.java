@@ -1,9 +1,8 @@
 package vector;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
-public class Exercise4 {
+public class SumPositiveEvenIndex {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         double array[] = new double[10];

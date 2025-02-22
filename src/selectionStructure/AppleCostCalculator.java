@@ -2,7 +2,7 @@ package selectionStructure;
 
 import java.util.Scanner;
 
-public class Exercise2 {
+public class AppleCostCalculator {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Insira o número de maçãs compradas: ");

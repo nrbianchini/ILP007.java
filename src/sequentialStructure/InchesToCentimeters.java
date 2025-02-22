@@ -2,7 +2,7 @@ package sequentialStructure;
 
 import java.util.Scanner;
 
-public class Exercise2 {
+public class InchesToCentimeters {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 

@@ -2,7 +2,7 @@ package vector;
 
 import java.util.Scanner;
 
-public class Exercise1 {
+public class OddNumbersInArray {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int array[] = new int[10];

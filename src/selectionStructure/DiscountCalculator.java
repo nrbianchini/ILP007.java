@@ -2,7 +2,7 @@ package selectionStructure;
 
 import java.util.Scanner;
 
-public class Exercise3 {
+public class DiscountCalculator {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Insira o valor total da compra: R$");
