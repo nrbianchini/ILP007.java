@@ -1,3 +1,5 @@
+// Reads an integer and outputs its predecessor and successor.
+    
 package sequentialStructure;
 
 import java.util.Scanner;
